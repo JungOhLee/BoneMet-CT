@@ -13,9 +13,11 @@ Open-source deep learning models from our study in *Radiology: Artificial Intell
 >
 > **Model weights** — https://zenodo.org/records/14872632
 
-![Bone metastasis missed by all radiologist readers but detected by the model](assets/example-case.jpg)
+<p align="center">
+  <img src="assets/example-case.jpg" width="60%" alt="Bone metastasis missed by all radiologist readers but detected by the model">
+</p>
 
-*Example case: an indeterminate pelvic metastasis — subtle on CT (A), clear on MRI (B), matching the reference label (C, green) — that Model 2 detected (D, red) but all six radiologist readers missed.*
+<p align="center"><em>Example case: an indeterminate pelvic metastasis — subtle on CT (A), clear on MRI (B), matching the reference label (C, green) — that Model 2 detected (D, red) but all six radiologist readers missed.</em></p>
 
 ---
 
