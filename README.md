@@ -7,7 +7,7 @@
 [![Commentary](https://img.shields.io/badge/Commentary-10.1148%2Fryai.260247-6c757d)](https://doi.org/10.1148/ryai.260247)
 [![License](https://img.shields.io/badge/Models-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Open-source deep learning models from our study in *Radiology: Artificial Intelligence* (RSNA, 2026). They detect bone metastases on routine thoracic and abdominal CT at the level of musculoskeletal radiologists, in **under a minute per scan** — a second-reader "safety net" for the clinical image viewer.
+Open-source deep learning models from our study in *Radiology: Artificial Intelligence* (RSNA, 2026). They detect bone metastases on routine thoracic and abdominal CT at the level of musculoskeletal radiologists, in **under a minute per scan** — a second-reader "safety net" for routine oncologic CT interpretation.
 
 > **Paper** — Lee JO, Kim DH, et al. *Bone Metastasis Detection at CT with Deep Learning Models Trained Using Multicenter, Multimodal Reference Standards: Development and Evaluation.* Radiology: Artificial Intelligence 2026;8(3):e250283. https://doi.org/10.1148/ryai.250283
 >
